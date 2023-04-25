@@ -1,4 +1,4 @@
-# Hello, World!
+# Hello, World! 👋
 
 I'm Alexandre Trotel, a technology enthusiast and entrepreneur. Welcome to my GitHub profile!
 
