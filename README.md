@@ -1,4 +1,4 @@
-# Hello 👋
+# Introduction
 I'm Alexandre Trotel. I'm an artist, a philosopher and an entrepreneur.
 
 ## About Me
