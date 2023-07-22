@@ -1,5 +1,5 @@
 # Introduction
-I'm Alexandre Trotel. I'm an artist, a philosopher and an entrepreneur.
+I'm Alexandre Trotel.
 
 ## About Me
 I'm passionate about exploring and experimenting with new technologies, especially those that can be used to create innovative solutions for real-world problems. I love working on projects that challenge me to learn and grow, and I'm always looking for new opportunities to collaborate with other like-minded individuals and teams.
