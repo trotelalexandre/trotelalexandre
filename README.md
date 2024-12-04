@@ -10,5 +10,8 @@ I'm passionate about exploring and experimenting with new technologies, especial
 # My Projects
 Check out my repositories to see some of the projects I've been working on lately. I'm always open to feedback and suggestions, so don't hesitate to reach out if you have any questions or ideas!
 
+# Statistics
+![Alexandre Trotel's GitHub stats](https://github-readme-stats.vercel.app/api?username=trotelalexandre&show_icons=true&theme=transparent)
+
 # Get In Touch
 If you're interested in connecting with me, feel free to send me a message. I'm always happy to chat about technology, entrepreneurship, and anything else that piques my curiosity. Let's build something amazing together!
