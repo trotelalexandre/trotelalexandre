@@ -1320,7 +1320,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">bludnic/opentrader</span>
+                                        <span class="repo">shogunpurple/clinews</span>
                                     </div>
                                 </div>
                             </section>
@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">darrenburns/elia</span>
+                                        <span class="repo">ggallego/feedly-cli</span>
                                     </div>
                                 </div>
                             </section>
@@ -1346,7 +1346,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">charles-001/dolphie</span>
+                                        <span class="repo">PabloLec/RecoverPy</span>
                                     </div>
                                 </div>
                             </section>
@@ -1359,7 +1359,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">Textualize/textual</span>
+                                        <span class="repo">wustho/baca</span>
                                     </div>
                                 </div>
                             </section>
@@ -1372,7 +1372,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">iggredible/Learn-Vim</span>
+                                        <span class="repo">Textualize/frogmouth</span>
                                     </div>
                                 </div>
                             </section>
@@ -1382,7 +1382,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2024, 14:29:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2024, 15:19:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
