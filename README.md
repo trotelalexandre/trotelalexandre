@@ -1,5 +1,5 @@
 # About Me
-I'm passionate about exploring and experimenting with new technologies and entrepreneurship, especially those that can be used to create innovative solutions for real-world problems. I love working on projects that challenge me to learn and grow.
+I'm passionate about exploring and experimenting with entrepreneurship and new technologies, especially those that can be used to create innovative solutions for real-world problems. I love working on projects that challenge me to learn and grow.
 
 # My Interests
 - Web applications
